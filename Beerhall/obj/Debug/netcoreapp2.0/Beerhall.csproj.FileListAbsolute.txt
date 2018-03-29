@@ -1,0 +1,11 @@
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\bin\Debug\netcoreapp2.0\Beerhall.deps.json
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\bin\Debug\netcoreapp2.0\Beerhall.runtimeconfig.json
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\bin\Debug\netcoreapp2.0\Beerhall.runtimeconfig.dev.json
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\bin\Debug\netcoreapp2.0\Beerhall.dll
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\bin\Debug\netcoreapp2.0\Beerhall.pdb
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\obj\Debug\netcoreapp2.0\Beerhall.csprojResolveAssemblyReference.cache
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\obj\Debug\netcoreapp2.0\Beerhall.csproj.CoreCompileInputs.cache
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\obj\Debug\netcoreapp2.0\Beerhall.AssemblyInfoInputs.cache
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\obj\Debug\netcoreapp2.0\Beerhall.AssemblyInfo.cs
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\obj\Debug\netcoreapp2.0\Beerhall.dll
+C:\Users\Kjell\Desktop\Trustteam\VoorbeeldSite2\08thBeerhallMvcCRUD-master\Beerhall\obj\Debug\netcoreapp2.0\Beerhall.pdb
